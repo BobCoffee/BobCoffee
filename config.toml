@@ -13,12 +13,15 @@ Paginate = 10
   insta = "bobski_ross" # add your 500px profile
   email = "bob@bobcoffee.io"
 
-
+[[menu.main]]
+    name = "Work"
+    weight = 1
+    url = "/"
 [[menu.main]]
     name = "Journal"
-    weight = 1
+    weight = 2
     url = "/journal/"
 [[menu.main]]
     name = "About Me"
-    weight = 2
+    weight = 3
     url = "/about/"
