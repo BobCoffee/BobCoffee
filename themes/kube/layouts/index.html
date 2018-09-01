@@ -6,8 +6,8 @@
 </div>
 <div id="main">
   <div id="components" class="body space">
-    <div class="row gutters auto">
-      {{ range where .Data.Pages "Section" "work" }} {{ partial "summary-folio" . }} {{ end }}
+    <div id="media-grid">
+      {{ range where .Data.Pages "Section" "Journal" }} {{ partial "summary-journal" . }} {{ end }}
     </div>
   </div>
   {{ end }}

@@ -14,13 +14,10 @@ Paginate = 10
   email = "bob@bobcoffee.io"
 
 [[menu.main]]
-    name = "Work"
+    name = "Journal"
     weight = 1
     url = "/"
-[[menu.main]]
-    name = "Journal"
-    weight = 2
-    url = "/journal/"
+
 [[menu.main]]
     name = "About Me"
     weight = 3
