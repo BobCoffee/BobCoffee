@@ -4,7 +4,7 @@ image = "/img/VicAlpine-3.jpg"
 title = "This is the title that gets pretty long"
 tags = ["markdown","example"]
 categories = ["general"]
-draft = true
+draft = false
 description = "This article is just a demo post and shows you the style of common used elements writing in pure markdown without HTML code."
 weight = 0
 +++

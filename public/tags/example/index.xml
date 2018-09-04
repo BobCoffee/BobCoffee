@@ -29,5 +29,25 @@
       <description>The challenge of this project was to design a table from a single sheet of 60x60 ¾ inch birch plywood with minimal waste.kept the form of the table very simple with clean lines and aesthetically modern. One of the greatest features is the laminated legs, which allows the table to have a unique form and remain very stable. From cutlist to assembly the table took, in all, five hours to build.</description>
     </item>
     
+    <item>
+      <title>This is the title that gets pretty long</title>
+      <link>/journal/two/</link>
+      <pubDate>Thu, 02 Mar 2017 21:56:55 +0100</pubDate>
+      
+      <guid>/journal/two/</guid>
+      <description>Welcome to Kube – an open source documentation like theme for Hugo Hi there and welcome to kube - my two theme for the static site generator hugo. kube is open source and can be found on kube. This article is just a demo post and shows you the style of common used elements.
+Bear claw danish chocolate lollipop soufflé jelly. Apple pie chocolate cake jelly-o icing bonbon. Gingerbread pastry fruitcake muffin chocolate bar cheesecake.</description>
+    </item>
+    
+    <item>
+      <title>Welcome to Kube</title>
+      <link>/journal/welcome/</link>
+      <pubDate>Thu, 02 Mar 2017 21:56:55 +0100</pubDate>
+      
+      <guid>/journal/welcome/</guid>
+      <description>Welcome to Kube – an open source documentation like theme for Hugo Hi there and welcome to kube - my two theme for the static site generator hugo. kube is open source and can be found on kube. This article is just a demo post and shows you the style of common used elements.
+Bear claw danish chocolate lollipop soufflé jelly. Apple pie chocolate cake jelly-o icing bonbon. Gingerbread pastry fruitcake muffin chocolate bar cheesecake.</description>
+    </item>
+    
   </channel>
 </rss>

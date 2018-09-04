@@ -30,9 +30,18 @@
     </item>
     
     <item>
+      <title>Hugo</title>
+      <link>/tags/hugo/</link>
+      <pubDate>Sun, 02 Apr 2017 22:01:15 +0100</pubDate>
+      
+      <guid>/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Markdown</title>
       <link>/tags/markdown/</link>
-      <pubDate>Sun, 02 Apr 2017 21:56:55 +0100</pubDate>
+      <pubDate>Sun, 02 Apr 2017 22:01:15 +0100</pubDate>
       
       <guid>/tags/markdown/</guid>
       <description></description>
@@ -44,6 +53,15 @@
       <pubDate>Sun, 02 Apr 2017 21:56:55 +0100</pubDate>
       
       <guid>/tags/photography/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prototype</title>
+      <link>/tags/prototype/</link>
+      <pubDate>Sun, 02 Apr 2017 22:01:15 +0100</pubDate>
+      
+      <guid>/tags/prototype/</guid>
       <description></description>
     </item>
     

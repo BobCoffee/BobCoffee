@@ -1,7 +1,7 @@
 +++
 date = "2017-04-10T16:41:34+01:00"
 image = "/img/VicAlpine-8.jpg"
-draft = true
+draft = false
 weight = 0
 description = "Versatile and refined messages, ideal for daily use"
 title = "Messages"

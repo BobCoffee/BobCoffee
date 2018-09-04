@@ -3,7 +3,7 @@ languageCode = "en-us"
 title = "Bob Coffee"
 theme = "kube"
 description = "Kube is a professional  and a responsive Hugo theme for developers and designers that offers a documentation section mixed with a landing page and a blog"
-Paginate = 10
+Paginate = 6
 [Params]
   RSSLink = "/index.xml"
   author = "Bob Coffee" # add your company name
@@ -20,5 +20,5 @@ Paginate = 10
 
 [[menu.main]]
     name = "About Me"
-    weight = 3
+    weight = 2
     url = "/about/"

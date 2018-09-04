@@ -33,8 +33,28 @@
   </url>
   
   <url>
+    <loc>/journal/collapse/</loc>
+    <lastmod>2017-04-10T16:42:50+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/journal/messages-2/</loc>
+    <lastmod>2017-04-10T16:41:34+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/journal/solidwood-lamp/</loc>
     <lastmod>2017-04-10T16:41:34+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/journal/prototyping-2/</loc>
+    <lastmod>2017-04-02T22:01:15+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/journal/prototyping/</loc>
+    <lastmod>2017-04-02T22:01:15+01:00</lastmod>
   </url>
   
   <url>
@@ -45,6 +65,16 @@
   <url>
     <loc>/journal/plywood-table/</loc>
     <lastmod>2017-04-02T21:56:55+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/journal/two/</loc>
+    <lastmod>2017-03-02T21:56:55+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/journal/welcome/</loc>
+    <lastmod>2017-03-02T21:56:55+01:00</lastmod>
   </url>
   
   <url>
@@ -73,6 +103,12 @@
   </url>
   
   <url>
+    <loc>/categories/design/</loc>
+    <lastmod>2017-04-02T22:01:15+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/example/</loc>
     <lastmod>2017-04-02T21:56:55+01:00</lastmod>
     <priority>0</priority>
@@ -85,8 +121,18 @@
   </url>
   
   <url>
+    <loc>/journal/typography/</loc>
+  </url>
+  
+  <url>
     <loc>/</loc>
     <lastmod>2018-02-10T16:42:26+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/hugo/</loc>
+    <lastmod>2017-04-02T22:01:15+01:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -96,7 +142,7 @@
   
   <url>
     <loc>/tags/markdown/</loc>
-    <lastmod>2017-04-02T21:56:55+01:00</lastmod>
+    <lastmod>2017-04-02T22:01:15+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -117,6 +163,12 @@
   </url>
   
   <url>
+    <loc>/tags/prototype/</loc>
+    <lastmod>2017-04-02T22:01:15+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/account/</loc>
   </url>
   
@@ -124,6 +176,10 @@
     <loc>/tags/</loc>
     <lastmod>2018-03-22T21:02:08+11:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/journal/typography-2/</loc>
   </url>
   
   <url>

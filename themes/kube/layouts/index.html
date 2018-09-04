@@ -9,6 +9,7 @@
     <div id="media-grid">
       {{ range where .Data.Pages "Section" "Journal" }} {{ partial "summary-journal" . }} {{ end }}
     </div>
+    <section>{{ partial "pagination" .}}</section>
   </div>
   {{ end }}
   {{ define "footer"}}{{ partial "footer" .}} {{end}}

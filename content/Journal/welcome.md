@@ -4,7 +4,7 @@ title = "Welcome to Kube"
 image = "/img/VicAlpine-1.jpg"
 tags = ["markdown","example"]
 categories = ["general"]
-draft = true
+draft = false
 description = "This article is just a demo post and shows you the style of common used elements writing in pure markdown without HTML code."
 weight = 0
 +++

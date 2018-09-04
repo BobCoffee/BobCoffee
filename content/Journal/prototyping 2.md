@@ -5,7 +5,7 @@ title = "Prototyping with markdown"
 tags = ["markdown","prototype", "hugo"]
 categories = ["design"]
 description = "An idea to make website prototype with markdown"
-draft = true
+draft = false
 weight = 0
 +++
 
